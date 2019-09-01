@@ -1,0 +1,16 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "mi primer servidor express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "camilomontoya2@gmail.com",
+  "license": "ISC"
+}
